@@ -1,0 +1,19 @@
+// !important es para dar prioridad a los estilos
+
+/*
+regla
+selectores
+declaraciones
+propiedades
+valores
+*/
+
+header{
+  background: pink;
+  
+}
+/*selector de etiqueta header section article nav*/
+/*selector descendente    
+body header div nav ol li a*/
+/*selector de clase .link*/
+/*selector de id #portafolio*/
